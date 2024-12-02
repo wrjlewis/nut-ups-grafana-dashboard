@@ -15,6 +15,12 @@ Please enjoy, and share your contributions.
 
 ## Getting Started
 
+### Set up the NUT exporter & Prometheus
+
+Follow the instructions laid out in the [HON95 prometheus-nut-exporter](https://github.com/HON95/prometheus-nut-exporter).
+
+### Set up the dashboard
+
 1) Edit the JSON model and replace `REPLACE_WITH_YOUR_INSTANCE_VALUE` with your instance variable.
 2) Import the JSON model - [grafana.com instructions](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/import-dashboards/)
 3) Edit the Status Change panel and choose the overrides that fit your instance and NUT status outputs, if it doesn't look right. 
