@@ -9,7 +9,6 @@ Heavily inspired from [HON95/prometheus-nut-exporter](https://github.com/HON95/p
 * ✅ Load and input voltage monitoring
 * ✅ Indication of battery runtime remaining
 * ✅ Energy cost analysis over a day / a month / a year (_NEW_)
-	* ℹ️ The day and month average costs require a month or a year respectively of data for the calculation to work, else it will show as a much lower cost than expected.
 
 Please enjoy, and share your contributions.
 
